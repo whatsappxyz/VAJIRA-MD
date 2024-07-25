@@ -55,10 +55,10 @@
 ## DEPLOY BY SESSION ID or creds.json (Qr code)
 
 
-<a href="https://vajira-session-id.onrender.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
+<a href="https://session-id-432b3cbe0519.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
 
-<a href="https://vajira-session-id.onrender.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
+<a href="https://session-id-432b3cbe0519.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
 <hr>
 
