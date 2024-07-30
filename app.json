@@ -1,7 +1,7 @@
 {
   "name": "SHUBHAM",
   "description": "VAJIRA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻",
-  "logo": "https://telegra.ph/file/235d945df230d71f246b6.jpg",
+  "logo": "https://telegra.ph/file/876447705855fc88d0b21.jpg",
   "keywords": ["vajiramd", "bot", "whatsapp bot", "multi device", "vajira-md"],
   "success_url": "/",
 
@@ -9,7 +9,7 @@
     "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "VAJIRA-MD=WQkD1KLT#r8ZJQNWLx7SfE9d1iIETLguPFSlDn1kNK3LVa2iqIO0"
+            "value": "VAJIRA-MD=aAlimBrR#0zYmunQMfAVeppPVu3xwu4rWTu2NEu8BOg1Z2LjWqis"
         },
     "COMMAND_TYPE": {
             "description": "Put here (button or nonbutton) to change bot command mode",
