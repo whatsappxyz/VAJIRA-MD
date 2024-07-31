@@ -55,7 +55,6 @@
         "pg": "^8.11.0",
         "puppeteer": "^22.7.1",
         "qrcode-terminal": "^0.12.0",
-        "util": "^0.12.4",
         "async-g-i-s": "^1.4.0",
         "api-dylux": "latest",
         "xfarr-api": "^1.0.2",
