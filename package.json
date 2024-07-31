@@ -1,6 +1,6 @@
 {
 "name": "VAJIRA-MD",    
-"version": "1.0.0",
+"version": "10.8.2",
 "scripts": {
 "start": "pm2 start index.js --deep-monitoring --attach --name VAJIRA-MD",
 "stop": "pm2 stop VAJIRA-MD",
@@ -8,7 +8,7 @@
 "stash": "git stash && git stash drop"
 },
 "dependencies": {
-        "@whiskeysockets/baileys": "git+https://github.com/VajiraTech/VAJIRA-BAILEYS.git",
+        "@whiskeysockets/baileys": "6.6.0",
         "@bochilteam/scraper": "^4.0.22-alpha.0",
         "@shineiichijo/marika": "^2.0.2", 
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
@@ -65,6 +65,6 @@
         "discord-xp": "^1.1.16",  
         "yt-search": "^2.10.4",
         "youtubedl-core": "^4.11.7",
-        "ytdl-core": "github:soya-daizu/ytdl-core#sig-patch"
+        "ytdl-core": "^4.11.5"
     }
 }
