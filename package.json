@@ -8,7 +8,7 @@
 "stash": "git stash && git stash drop"
 },
 "dependencies": {
-        "@whiskeysockets/baileys": "6.6.0",
+        "@whiskeysockets/baileys": "git+https://github.com/ayooh-us/Bailey-s.git",
         "@bochilteam/scraper": "^4.0.22-alpha.0",
         "@shineiichijo/marika": "^2.0.2", 
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
