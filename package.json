@@ -1,8 +1,11 @@
 {
+"name": "VAJIRA-MD",    
+"version": "1.0.0",
 "scripts": {
-"start": "pm2 start index.js --deep-monitoring --attach --name wabot",
-"stop": "pm2 stop wabot",
-"restart": "pm2 restart wabot"
+"start": "pm2 start index.js --deep-monitoring --attach --name VAJIRA-MD",
+"stop": "pm2 stop VAJIRA-MD",
+"restart": "git pull && npm stop && npm start",
+"stash": "git stash && git stash drop"
 },
 "dependencies": {
         "@whiskeysockets/baileys": "git+https://github.com/VajiraTech/VAJIRA-BAILEYS.git",
