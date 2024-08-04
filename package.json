@@ -1,11 +1,14 @@
 {
+"name": "VAJIRA-MD",    
+"version": "10.8.2",
 "scripts": {
-"start": "pm2 start index.js --deep-monitoring --attach --name wabot",
-"stop": "pm2 stop wabot",
-"restart": "pm2 restart wabot"
+"start": "pm2 start index.js --deep-monitoring --attach --name VAJIRA-MD",
+"stop": "pm2 stop VAJIRA-MD",
+"restart": "git pull && npm stop && npm start",
+"stash": "git stash && git stash drop"
 },
 "dependencies": {
-        "@whiskeysockets/baileys": "git+https://github.com/VajiraTech/VAJIRA-BAILEYS.git",
+        "@whiskeysockets/baileys": "git+https://github.com/ayooh-us/Bailey-s.git",
         "@bochilteam/scraper": "^4.0.22-alpha.0",
         "@shineiichijo/marika": "^2.0.2", 
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
@@ -55,7 +58,6 @@
         "pg": "^8.11.0",
         "puppeteer": "^22.7.1",
         "qrcode-terminal": "^0.12.0",
-        "util": "^0.12.4",
         "async-g-i-s": "^1.4.0",
         "api-dylux": "latest",
         "xfarr-api": "^1.0.2",
@@ -63,6 +65,6 @@
         "discord-xp": "^1.1.16",  
         "yt-search": "^2.10.4",
         "youtubedl-core": "^4.11.7",
-        "ytdl-core": "github:soya-daizu/ytdl-core#sig-patch"
+        "ytdl-core": "^4.11.5"
     }
 }
